@@ -1,0 +1,159 @@
+Perdemos 76 praias
+
+SEM PLACES = Place irrelevante para o Google Maps
+SEM RATING = Sem uma única estrela
+
+
+
+[SEM PLACES] linha 101 - Praia de Vila Praia de Âncora
+{}
+[SEM PLACES] linha 120 - Praia do Coral
+{}
+[SEM RATING] linha 130 - Ínsuas do rio Lima
+{'id': 'ChIJFd5qigcJJQ0RD2OwzBXAAvQ', 'location': {'latitude': 41.8058863, 'longitude': -8.4374973}, 'displayName': {'text': 'Ínsuas do rio Lima', 'languageCode': 'fr'}}
+[SEM RATING] linha 136 - Castelo de Neiva
+{'id': 'ChIJU8GAaFC0JQ0R76JhWdzpfKc', 'location': {'latitude': 41.6280262, 'longitude': -8.8007806}, 'displayName': {'text': 'Castelo do Neiva', 'languageCode': 'en'}}
+[SEM RATING] linha 231 - Praia Avenida da Colónia
+{'id': 'ChIJXe1FL9VJJA0Rc99Fs_JjDh8', 'location': {'latitude': 41.4811002, 'longitude': -8.776209699999999}, 'displayName': {'text': 'Praia Avenida da Colónia', 'languageCode': 'de'}}
+[SEM RATING] linha 234 - Praia Colónia Balnear
+{'id': 'ChIJN1S8uYBJJA0RmiflCEoVp2Q', 'location': {'latitude': 41.4780071, 'longitude': -8.775790599999999}, 'displayName': {'text': 'Praia Colónia Balnear', 'languageCode': 'de'}}
+[SEM PLACES] linha 245 - Praia de Coim
+{}
+[SEM PLACES] linha 252 - Praia da Lagoa-II
+{}
+[SEM RATING] linha 288 - Praia Fluvial do Vaqueiro
+{'id': 'ChIJv-K7PADlJA0RwQnxIFLXCPU', 'location': {'latitude': 41.5159544, 'longitude': -8.300768399999999}, 'displayName': {'text': 'Praia Fluvial do Vaqueiro', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 289 - Praia Fluvial do Moinho
+{'id': 'ChIJQUuCRQDlJA0RAinhZhVUPWM', 'location': {'latitude': 41.5238425, 'longitude': -8.2963149}, 'displayName': {'text': 'Praia Fluvial do Moinho', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 296 - Praia Fluvial de Rio Longo
+{'id': 'ChIJGbctAQDfJA0RpXx4gmRdbkw', 'location': {'latitude': 41.5936276, 'longitude': -8.1295596}, 'displayName': {'text': 'Praia Fluvial de Rio Longo', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 306 - Praia Fluvial de Teja
+{'id': 'ChIJQ96XEgCRPA0RXdyFpEY8-u8', 'location': {'latitude': 40.870097099999995, 'longitude': -7.3463996}, 'displayName': {'text': 'Praia Fluvial de Teja', 'languageCode': 'en'}}
+[SEM PLACES] linha 407 - Praia Internacional
+{}
+[SEM PLACES] linha 411 - Praia dos Ingleses
+{}
+[SEM PLACES] linha 413 - Praia do Carneiro
+{}
+[SEM RATING] linha 434 - Poço de ferro
+{'id': 'ChIJ89wnCgBXOw0RRmw183Wxyg8', 'location': {'latitude': 41.0563672, 'longitude': -7.621738199999999}, 'displayName': {'text': 'Poço de ferro', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 449 - Foz Rio Sonso
+{'id': 'ChIJoQVKBgBdIw0Rz67Dx0sDWn8', 'location': {'latitude': 40.917491299999995, 'longitude': -8.0555404}, 'displayName': {'text': 'Foz Rio Sonso', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 458 - Ribeira do Boi - Martim Pêga
+{'id': 'ChIJRRJe_qNVPA0RcH7aKpYSZr8', 'location': {'latitude': 40.4345371, 'longitude': -7.075510599999999}, 'displayName': {'text': 'Ribeira do Boi - Martim Pêga', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 495 - Praia Fluvial da Cardosa (em construção)
+{'id': 'ChIJTep_AwBNPQ0REdjDtAYUFH8', 'location': {'latitude': 39.9414361, 'longitude': -7.7297244}, 'displayName': {'text': 'Praia Fluvial da Cardosa (em construção)', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 535 - Nascentes do Alviela
+{'id': 'ChIJBXuRbKqRGA0R8P2Q5L3rAAU', 'location': {'latitude': 39.4273808, 'longitude': -8.6682208}, 'displayName': {'text': 'Louriceira', 'languageCode': 'pt'}}
+[SEM RATING] linha 547 - Praia Fluvial dos Canais
+{'id': 'ChIJPaFiPwB9EA0R5IdLMgM5IL4', 'location': {'latitude': 37.6932869, 'longitude': -7.654061}, 'displayName': {'text': 'Praia Fluvial dos Canais', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 561 - Foz da Ribeira de Ribamá
+{'id': 'ChIJN-yeRwBBIw0RE5BOWb4QU2Y', 'location': {'latitude': 40.741665399999995, 'longitude': -8.0700649}, 'displayName': {'text': 'Foz da Ribeira de Ribamá', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 575 - Praia fluvial, da comporta
+{'id': 'ChIJQyniSABlGQ0RVs8cFst4EtY', 'location': {'latitude': 38.417041999999995, 'longitude': -8.714495699999999}, 'displayName': {'text': 'Praia fluvial, da comporta', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 590 - Praia do Sindicato
+{'id': 'ChIJsYw2GgB7JA0R_YsOOdboVT0', 'location': {'latitude': 41.0892567, 'longitude': -8.6567039}, 'displayName': {'text': 'Praia do Sindicato', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 594 - Praia de Francelos
+{'id': 'ChIJrZenYYF6JA0RLxrtQTWBeSM', 'location': {'latitude': 41.0806809, 'longitude': -8.6561556}, 'displayName': {'text': 'Praia de Francelos', 'languageCode': 'pt'}}
+[SEM RATING] linha 599 - Praia da Areia Branca
+{'id': 'ChIJ5SBr8c83Hw0RpCb6hVt0zmc', 'location': {'latitude': 39.2659327, 'longitude': -9.333571}, 'displayName': {'text': 'Praia da Areia Branca', 'languageCode': 'pt'}}
+[SEM RATING] linha 614 - Praia de Esmoriz
+{'id': 'ChIJh97JXO2HIw0RoIxgy-f3-TY', 'location': {'latitude': 40.9518212, 'longitude': -8.6551872}, 'displayName': {'text': 'Praia de Esmoriz', 'languageCode': 'pt'}}
+[SEM PLACES] linha 638 - Praia da Barra Sul
+{}
+[SEM PLACES] linha 640 - Praia do Parque de Campismo
+{}
+[SEM PLACES] linha 644 - Praia da Vagueira (Norte)
+{}
+[SEM RATING] linha 645 - Praia da Vagueira
+{'id': 'ChIJQWKFWr6-Iw0Rdz5ykZJvHX8', 'location': {'latitude': 40.5631349, 'longitude': -8.7666617}, 'displayName': {'text': 'Praia da Vagueira', 'languageCode': 'pt'}}
+[SEM RATING] linha 653 - Praia de Mira
+{'id': 'ChIJd5rQZ4a3Iw0Rtw1xm-HfJ14', 'location': {'latitude': 40.4557388, 'longitude': -8.7962259}, 'displayName': {'text': 'Praia de Mira', 'languageCode': 'pt'}}
+[SEM RATING] linha 658 - Praia da Tocha
+{'id': 'ChIJg27IhoPKIw0RcNx_T8DrAAo', 'location': {'latitude': 40.329198999999996, 'longitude': -8.8418814}, 'displayName': {'text': 'Praia da Tocha', 'languageCode': 'en'}}
+[SEM PLACES] linha 674 - Praia do Forte de Santa Catarina
+{}
+[SEM RATING] linha 684 - Praia do Urso
+{'id': 'ChIJSYAxdQA9Ig0RY3Gl2EwCwiY', 'location': {'latitude': 39.967926, 'longitude': -8.9305947}, 'displayName': {'text': 'Praia do Urso', 'languageCode': 'en'}}
+[SEM PLACES] linha 688 - Praia da Vieira (Norte)
+{}
+[SEM RATING] linha 690 - Praia da Vieira
+{'id': 'ChIJDezvQCgRIg0RW0-02JQOfMA', 'location': {'latitude': 39.8739013, 'longitude': -8.969306}, 'displayName': {'text': 'Praia da Vieira', 'languageCode': 'pt'}}
+[SEM PLACES] linha 693 - Praia da Concha
+{}
+[SEM RATING] linha 695 - Praia de São Pedro de Moel
+{'id': 'ChIJnVrQu3YFIg0RgPmAT8DrAAo', 'location': {'latitude': 39.757847, 'longitude': -9.0297883}, 'displayName': {'text': 'São Pedro de Moel', 'languageCode': 'en'}}
+[SEM PLACES] linha 731 - Praia Baleal - Norte
+{}
+[SEM RATING] linha 757 - Praia da Areia Branca
+{'id': 'ChIJ5SBr8c83Hw0RpCb6hVt0zmc', 'location': {'latitude': 39.2659327, 'longitude': -9.333571}, 'displayName': {'text': 'Praia da Areia Branca', 'languageCode': 'pt'}}
+[SEM RATING] linha 761 - Praia de Porto Dinheiro
+{'id': 'ChIJSZVYLiE3Hw0RZG6EIZWXuYc', 'location': {'latitude': 39.211180299999995, 'longitude': -9.3262201}, 'displayName': {'text': 'Porto Dinheiro', 'languageCode': 'en'}}
+[SEM PLACES] linha 770 - Praia do Mirante
+{}
+[SEM PLACES] linha 791 - Praia de São Lourenço
+{}
+[SEM PLACES] linha 802 - Praia do Matadouro
+{}
+[SEM RATING] linha 806 - Praia da Baleia
+{'id': 'ChIJxewZWLmAzZQRurLGDER4luY', 'location': {'latitude': -23.7738622, 'longitude': -45.672519300000005}, 'displayName': {'text': 'Praia da Baleia', 'languageCode': 'en'}}
+[SEM RATING] linha 863 - Praia das Salinas
+{'id': 'ChIJpYRcRDg6GQ0RwzHhWv0vZFk', 'location': {'latitude': 38.7448348, 'longitude': -8.9820819}, 'displayName': {'text': 'Praia das Salinas', 'languageCode': 'pt'}}
+[SEM RATING] linha 867 - Prainha
+{'id': 'ChIJzRzB4isvGw0R5HgePb1NP2Q', 'location': {'latitude': 37.1204089, 'longitude': -8.5759825}, 'displayName': {'text': 'Prainha', 'languageCode': 'pt'}}
+[SEM RATING] linha 886 - Praia de Santa Bruna
+{'id': 'ChIJXUrkEADLHg0RKkxp6EYmUh8', 'location': {'latitude': 38.6761325, 'longitude': -9.2149728}, 'displayName': {'text': 'Praia de Santa Bruna', 'languageCode': 'pt-PT'}}
+[SEM RATING] linha 906 - Praia da Cabana do Pescador
+{'id': 'ChIJKY_9tEO1Hg0Rnq7lWz0a9Ug', 'location': {'latitude': 38.6105757, 'longitude': -9.2090577}, 'displayName': {'text': 'Praia da Cabana do Pescador', 'languageCode': 'pt-PT'}}
+[SEM PLACES] linha 940 - Praia do Inferno
+{}
+[SEM PLACES] linha 945 - Praia da Cova
+{}
+[SEM PLACES] linha 955 - Praia da Galapa
+{}
+[SEM RATING] linha 965 - Praia fluvial, da comporta
+{'id': 'ChIJQyniSABlGQ0RVs8cFst4EtY', 'location': {'latitude': 38.417041999999995, 'longitude': -8.714495699999999}, 'displayName': {'text': 'Praia fluvial, da comporta', 'languageCode': 'pt-PT'}}
+[SEM PLACES] linha 972 - Praia do Golfe
+{}
+[SEM PLACES] linha 989 - Praia da Sesmaria
+{}
+[SEM PLACES] linha 993 - Praia das Areias Brancas
+{}
+[SEM PLACES] linha 1002 - Praia da Pelengana
+{}
+[SEM PLACES] linha 1021 - Praia da Baía de Porto Covo
+{}
+[SEM RATING] linha 1080 - Prainha
+{'id': 'ChIJzRzB4isvGw0R5HgePb1NP2Q', 'location': {'latitude': 37.1204089, 'longitude': -8.5759825}, 'displayName': {'text': 'Prainha', 'languageCode': 'pt'}}
+[SEM PLACES] linha 1088 - Praia da Águia
+{}
+[SEM RATING] linha 1106 - Praia da Salema
+{'id': 'ChIJLxRPAxI2Gw0RVw2QO-I01fI', 'location': {'latitude': 37.0661278, 'longitude': -8.823872099999999}, 'displayName': {'text': 'Salema', 'languageCode': 'en'}}
+[SEM PLACES] linha 1107 - Praia da Boca do Rio
+{}
+[SEM RATING] linha 1113 - Praia da Luz
+{'id': 'ChIJEz67Bj4xGw0RCdaIxNlkeO8', 'location': {'latitude': 37.099539799999995, 'longitude': -8.7366791}, 'displayName': {'text': 'Luz', 'languageCode': 'en'}}
+[SEM RATING] linha 1135 - Praia do Ferta
+{'id': 'ChIJ0_3MfA1VFgcR5GG3JYwtxkg', 'location': {'latitude': -12.5745995, 'longitude': -38.0049816}, 'displayName': {'text': 'Praia do Forte', 'languageCode': 'en'}}
+[SEM RATING] linha 1155 - Praia dos Caneiros
+{'id': 'ChIJMTCgfkOCqgcRUvHj2f91bzM', 'location': {'latitude': -8.7156743, 'longitude': -35.087067999999995}, 'displayName': {'text': 'Praia dos Carneiros', 'languageCode': 'pt'}}
+[SEM PLACES] linha 1157 - Praia do Mato
+{}
+[SEM RATING] linha 1165 - Praia de Carvoeiro
+{'id': 'ChIJUTdJ9BbWGg0Rfe-LY8sDUj4', 'location': {'latitude': 37.0971411, 'longitude': -8.470954599999999}, 'displayName': {'text': 'Carvoeiro', 'languageCode': 'en'}}
+[SEM RATING] linha 1170 - Praia de Benagil
+{'id': 'ChIJK1sgmoTWGg0Ruk9GeN7pTx4', 'location': {'latitude': 37.0871557, 'longitude': -8.4277186}, 'displayName': {'text': 'Benagil', 'languageCode': 'en'}}
+[SEM PLACES] linha 1191 - Praia da Ponta da Adega Este
+{}
+[SEM PLACES] linha 1211 - Praia da Balbina
+{}
+[SEM PLACES] linha 1217 - Praia da Ponta Grande
+{}
+[SEM RATING] linha 1256 - Praia da Patacona
+{'id': 'ChIJnzQTEADxGA0R5j7U42s-s6I', 'location': {'latitude': 39.2421629, 'longitude': -8.6355754}, 'displayName': {'text': 'Praia da Patacona', 'languageCode': 'pt-PT'}}
+[SEM PLACES] linha 1308 - Praia Da Alagoa Nascente
+{}
+[SEM PLACES] linha 1316 - Praia da Ponta da Areia
+{}
+[SEM RATING] linha 1380 - Praia Fluvial do Rato
+{'id': 'ChIJczgQ5ya1PA0R7kJkUdtjxjg', 'location': {'latitude': 40.7671923, 'longitude': -7.7406091}, 'displayName': {'text': 'Praia Fluvial do Rato', 'languageCode': 'pt-PT'}}

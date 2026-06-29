@@ -1,0 +1,1 @@
+Ratings*(LN(1+Votos)/LN(100))
