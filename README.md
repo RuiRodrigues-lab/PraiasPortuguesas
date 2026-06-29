@@ -5,9 +5,15 @@ Trabalho de geoanalitica sobre a qualidade da água das praias portuguesas.
 
 
 Docente: 
+
 Pedro Sales
+
 Discente: 
+
 Alexandre Carapinha 
+
 Lucas Terlica 
+
 Rui Rodrigues 
+
 Sonia Bento 
